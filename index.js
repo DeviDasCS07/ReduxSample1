@@ -1,3 +1,4 @@
+// Simple Store
 const reducer = Redux.combineReducers({
   todos: (state = [], action) => {
     switch (action.type) {
