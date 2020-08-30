@@ -1,0 +1,8 @@
+body {
+  background-color: gold;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
